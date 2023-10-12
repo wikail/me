@@ -5,7 +5,12 @@
 
 <h3>🖮 Coding</h3>
 <div align="center">
-<img width="38%" src="https://lanyard-profile-readme.vercel.app/api/255368702969511936" />
+  <img width="38%" src="https://lanyard-profile-readme.vercel.app/api/255368702969511936" />
+</div>
+
+<h3>🎶 Vibing to</h3>
+<div align="center">
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mikailclk&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mikailclk&redirect=true)
 </div>
 
 ## 🌐Socials
