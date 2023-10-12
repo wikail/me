@@ -5,7 +5,9 @@
 
 <h3>🖮 Coding</h3>
 <div align="center">
-  <img width="38%" src="https://lanyard-profile-readme.vercel.app/api/255368702969511936" />
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/255368702969511936)](https://discord.com/users/255368702969511936)
+  
 </div>
 
 <h3>🎶 Vibing to</h3>
