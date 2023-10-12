@@ -2,6 +2,7 @@
 📫 How to reach me mikail@rakun.net.tr
 🌱 I’m currently learning **C#, .NET**
 
+<h3>🖮 Coding</h3>
 [![Discord Presence](https://lanyard.cnrad.dev/api/255368702969511936)](https://discord.com/users/255368702969511936)
 
 ## 🌐Socials
