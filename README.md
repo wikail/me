@@ -30,4 +30,8 @@
 </div>
 
 ## 🏆GitHub Trophies
+<div align="center">
+
 ![](https://github-trophies.vercel.app/?username=wikail&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
