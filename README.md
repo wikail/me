@@ -6,7 +6,7 @@
 <h3>🖮 Coding</h3>
 <div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/255368702969511936)](https://discord.com/users/255368702969511936)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1202008528060157976)](https://discord.com/users/1202008528060157976)
 <br>
 <a href="https://discord.gg/c2KPUeQGna" target="_blank"><img src="https://cdn.discordapp.com/attachments/715130970294059088/1044855172494532628/discord.png"/></a>
   
