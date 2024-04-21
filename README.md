@@ -3,22 +3,6 @@
 <br>
 🌱 I’m currently learning **C#, .NET**
 
-<h3>🖮 Coding</h3>
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1202008528060157976)](https://discord.com/users/1202008528060157976)
-<br>
-<a href="https://discord.gg/c2KPUeQGna" target="_blank"><img src="https://cdn.discordapp.com/attachments/715130970294059088/1044855172494532628/discord.png"/></a>
-  
-</div>
-
-<h3>🎶 Vibing to</h3>
-<div align="center">
-  
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mikailclk&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=mikailclk&redirect=true)
-  
-</div>
-
 <h3>🌐Socials</h3>
 <div align="center">
   
